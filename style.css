@@ -1,0 +1,16 @@
+.center {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.letsgosalmon {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.videos {
+    border: 5px solid;
+    margin: 10px;
+    width: 640px;
+    padding: 10px;
+}

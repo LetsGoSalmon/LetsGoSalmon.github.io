@@ -9,6 +9,12 @@ body {
     align-items: center;
 }
 
+#games {
+    height: fit-content;
+    display: flex;
+    align-items: center;
+]
+
 #menu-items {
     margin-left: clamp(4rem, 20vw, 48rem);
 }
